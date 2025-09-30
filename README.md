@@ -70,8 +70,8 @@ even have [instructions to get started][gh-pages]. The basic steps are:
     `REPOSITORY` with the name of the repository you created.
 
 As an example, my GitHub username is `xinyiwangjuno`, and this README is in a
-repository called `sta160_website_demo`. You can view the demo website at
-<https://xinyiwangjuno.github.io/sta160_website_demo>.
+repository called `STA160_website_demo`. You can view the demo website at
+<https://xinyiwangjuno.github.io/STA160_website_demo>.
 
 There are other hosts that provide more features, but most of them aren't free.
 Search online if you want to learn more. For students, the [GitHub Student
